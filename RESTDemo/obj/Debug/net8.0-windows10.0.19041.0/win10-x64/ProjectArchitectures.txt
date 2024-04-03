@@ -1,0 +1,1 @@
+C:\Users\gilmar\Desktop\Develop\Training\Maui\RESTDemo\RESTDemo\RESTDemo.csproj;x64
